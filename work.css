@@ -1,0 +1,248 @@
+body {
+    background-color: #958d81;
+    height: 1453px;
+}
+
+
+
+
+
+
+
+
+
+.left {
+    /* border: 1px solid black; */
+    position: absolute;
+    top: 2px;
+    left: 53px;
+    width: 78px;
+    padding: 0px 27px;
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: small-caps;
+    font-size: medium;
+}
+
+h3:hover {
+    color: rgb(185, 14, 14);
+}
+
+
+
+
+/* NAVIGATION BAR CONTROL */
+.rightborder {
+    /* border: 1px solid black; */
+    position: absolute;
+    top: 3px;
+    left: 923px;
+    width: 361px;
+    padding: 0px 7px;
+    position: fixed;
+}
+
+.rightborder ul {
+    list-style: none;
+
+}
+
+.rightborder li {
+
+    float: left;
+    overflow: auto;
+    padding: 10px 25px
+}
+
+.rightborder li a {
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.rightborder li a:hover {
+    color: rgb(21, 194, 15);
+
+}
+
+
+
+
+
+
+
+/* I MADE ALL THESE WEBSITES */
+h1 {
+    text-align: center;
+    /* border: 1px solid beige; */
+    position: absolute;
+    top: 130px;
+    left: 65px;
+    width: 67%;
+    padding: 12px 0px;
+    font-size: 120px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-variant: small-caps;
+}
+
+h1:hover {
+    color: rgb(129, 20, 20);
+}
+
+.headingimages{
+    color: #5a2323;
+    text-align: center;
+    /* border: 1px solid black; */
+    position: absolute;
+    top: 514px;
+    left: 443px;
+    width: 341px;
+    font-size: xx-large;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+/* IMAGES WEBSITES */
+.image {
+
+    /* border: 1px solid beige; */
+    border-radius: 12px;
+    position: absolute;
+    top: 604px;
+    left: 46px;
+    /* padding: 12px 12px; */
+
+}
+
+
+.image2 {
+
+    /* border: 1px solid beige; */
+    border-radius: 12px;
+    position: absolute;
+    top: 604px;
+    left:763px;
+}
+
+
+.image3 {
+    /* border: 1px solid beige; */
+    border-radius: 12px;
+    position: absolute;
+    top: 1006px;
+    left: 25px;
+}
+
+.image4 {
+    /* border: 1px solid beige; */
+    border-radius: 12px;
+    position: absolute;
+    top: 1006px;
+    left: 646px;
+}
+
+img {
+    border-radius: 19px;
+    box-shadow: 0px 0px 22px #8f0e14;
+}
+
+.want{
+    text-align: center;
+    /* border: 1px solid black; */
+    position: absolute;
+    top: 1466px;
+    left: 82px;
+    width: 21%;
+    padding: 12px 12px
+}
+#span{
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight:700;
+
+  
+}
+
+
+
+
+
+
+
+/* LINKS CONTROL */
+.links {
+    text-align: center;
+    /* border: 1px solid black; */
+    position: absolute;
+    top: 1581px;
+    left: 3px;
+    width: 77%;
+    padding: 27px 36px;
+   
+}
+
+.links a {
+    color: black;
+    font-size: 90px;
+    font-weight: 600;
+    font-style: italic;
+}
+.links a:hover{
+    color: rgb(46, 8, 8);
+}
+
+
+
+
+
+
+/* social media control */
+
+
+.socialsborder {
+    text-align: center;
+    /* border: 1px solid black; */
+    position: absolute;
+    top: 1932px;
+    left: 655px;
+    width: 44%;
+    padding: 15px 31px;
+
+}
+
+.socialsborder a {
+    color: #342525;
+    padding: 0px 33px;
+    text-decoration: none;
+    font-size: 25px;
+    /* font-weight: bol; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.socialsborder a:hover{
+    color: blue;
+}
+.end{
+    /* border: 1px solid black; */
+    position: absolute;
+    top: 1904px;
+    left: 61px;
+    width: 17%;
+    padding: 15px 31px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
